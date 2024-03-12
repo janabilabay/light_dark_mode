@@ -1,16 +1,9 @@
-# light_dark_mode
+#### Switcher theme app
 
-A new Flutter project.
+This Flutter application was developed with the aim of enhancing my understanding and expertise in this domain. It offers a seamless experience by enabling users to effortlessly switch between dark and light UI themes.
 
-## Getting Started
+Installation and use, сlone the repository: https://github.com/janabilabay/light_dark_mode.git
 
-This project is a starting point for a Flutter application.
+I took as a basis a video completely copied from the author: @createdbykoko
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/janabilabay/light_dark_mode/assets/140972472/9d5b4092-dbfb-4726-aaa4-f43555ec20e9
