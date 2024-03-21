@@ -1,8 +1,21 @@
-#### Switcher theme app
+### Switcher theme app
 
 This Flutter application was developed with the aim of enhancing my understanding and expertise in this domain. It offers a seamless experience by enabling users to effortlessly switch between dark and light UI themes.
 
-Installation and use, сlone the repository: https://github.com/janabilabay/light_dark_mode.git
+### Setup
+
+1. Clone the repo
+
+```bash
+https://github.com/janabilabay/light_dark_mode.git
+```
+
+2. Install dependencies
+
+```bash
+$ flutter pub get
+$ pod install
+```
 
 I took as a basis a video completely copied from the author: @createdbykoko
 
